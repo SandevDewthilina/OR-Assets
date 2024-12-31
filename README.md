@@ -4,6 +4,11 @@
 
 This proof of concept involves solving an inventory and distribution optimization problem using linear programming and routing techniques. The problem combines aspects of demand forecasting, inventory management, and distribution logistics, including a focus on the Traveling Salesman Problem (TSP) for efficient routing.
 
+## Formulation
+
+<img width="1091" alt="image" src="https://github.com/user-attachments/assets/edcd146f-91d0-4169-8558-575d3fb427dd" />
+
+
 ## Procedure
 
 ### 1. Data Loading and Preprocessing
